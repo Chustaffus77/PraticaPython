@@ -1,4 +1,4 @@
-nome  =  input ( "Qual é o seu nome?" )
+nome  =  input ( "Qual seria o seu nome?" )
 
 dolar = float( input("Coloque o valor em dólar para que ele possa ser convertido em reais: US$"))
 
